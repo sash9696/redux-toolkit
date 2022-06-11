@@ -1,0 +1,9 @@
+
+.navItem{
+    padding: 5px 10px;
+    border: 1px solid lightgray;
+}
+.navItem:hover{
+    background-color: lightblue;
+    cursor: pointer;
+}
